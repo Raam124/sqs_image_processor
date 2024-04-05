@@ -27,6 +27,10 @@ SQS Image Processor is a Python application that listens to an Amazon SQS queue 
 ```
 
 ```bash
+    create a virtual environment and activate it
+```
+
+```bash
     pip install -r requirements.txt
 ```
 
